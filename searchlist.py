@@ -94,7 +94,7 @@ final_df.columns=['mins', 'title','url', 'channel', 'view', 'like','comments']
 
 # 저장 경로명은 자신의 상황에 맞게. encoding은 보통 cp949로 하겠지만, 한글이 깨지기 때문에 utf-8로 했슴
 # final_df.to_csv(f'/Users/dongsub/Documents/GitHub/APIproject/{today}.csv', index=False, encoding='utf-8')
-final_df.to_json(f'/Users/dongsub/Documents/GitHub/ContestProject_OneSearch/{today}.json', orient = 'columns', force_ascii=False)
+final_df.to_json(f'E:/project/ContestProject_OneSearch/{today}.json', orient = 'columns', force_ascii=False)
 
 # with open(f'/Users/dongsub/Documents/GitHub/APIproject/{today}.json','w', encoding='utf-8') as file:
 #     json.dump(final_df, file, ensure_ascii=False, indent = '\t')
