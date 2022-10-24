@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>loading...</title>
+    <link href="css/loading.css" rel="stylesheet" type="text/css" />
+    <script>
+        function popup(){
+         pop=window.open('./OneSearch.html','_self')
+         pop.focus();
+        }
+        tid=setTimeout(popup,2000); //5천밀리초(5초)후에 popup함수실행
+        </script> 
+</head>
+<body>
+    <div class="loading-container">
+        <div class="loading"></div>
+        <div id="loading-text">loading...</div>
+    </div>
+
+</body>
+</html>
