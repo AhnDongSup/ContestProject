@@ -4,6 +4,7 @@ Title : 👆🏻OS(One-Search)👆🏻
 
 
 ## Preview
+![인트로_AdobeExpress](https://user-images.githubusercontent.com/96939334/198579685-5390422e-c557-4ead-89c9-dd6c9a5dde17.gif)
 
 
 
