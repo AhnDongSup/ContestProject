@@ -4,6 +4,7 @@ Title : 👆🏻OS(One-Search)👆🏻
 
 
 ## Preview
+![인트로](https://user-images.githubusercontent.com/96939334/198578493-50aa6341-36b6-49f7-8520-bc656c59b771.gif)
 
 
 
