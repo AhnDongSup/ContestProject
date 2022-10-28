@@ -13,8 +13,6 @@ Title : 👆🏻OS(One-Search)👆🏻
 
 ![search_AdobeExpress](https://user-images.githubusercontent.com/96939334/198580962-c8c6681f-070a-43e1-ab78-688734a85257.gif)
 
----
-
 ### 🔆 Loading
 
 ![main_AdobeExpress](https://user-images.githubusercontent.com/96939334/198582379-f43f4a3f-70cd-46cd-84da-fe18e48c2888.gif)
